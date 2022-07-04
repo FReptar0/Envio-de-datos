@@ -1,0 +1,39 @@
+body{
+    overflow-y: hidden;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.fatherCards {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-bottom: 20%;
+}
+
+.cards {
+    padding: 10px;
+    height: 600px;
+    width: 350px;
+    display: inline-block;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, .2);
+}
+
+.img {
+    border-radius: 50%;
+    padding: 0;
+}
+
+.rand {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+#izquierda {
+    margin-right: 30px;
+}
